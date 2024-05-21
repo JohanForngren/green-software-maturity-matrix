@@ -1,6 +1,8 @@
 
 # Scope
 
+The Green Software Maturity Matrix is a self-assessment tool. It helps organisations understand the extent to which they have implemented green principles, patterns, and processes for building and operating their software systems.
+
 The matrix addresses four problems. It answers the questions:
 
 * **"Where do I start?"** - for enterprises at level 1 of the GSMM, which tools and projects are available to help then achieve level 2
@@ -9,8 +11,17 @@ The matrix addresses four problems. It answers the questions:
 * **"How do I know I am making progress?"** - by tracking their progress they can check they are not stuck
 
 
+# Target Audience
+* Enterprise CTOs and internal green advocates to guide their high-level journey and give them something to report progress against.
+* Consultants offering green transition services.
+
+# Solution
+
+A simple maturity matrix with 5-6 levels of carbon efficiency and awareness in a poster-style diagram, together with a short guide. Training courses including those offered by the GSF, and standards such as the SCI & ISO can be overlaid.
+
 # Objectives
-The objective is to get all GSF Members to start reporting (at least internally) on their GSMM scores and progress on a company or org unit basis.
+* Get all GSF Members to start reporting (at least internally) on their GSMM scores and progress on a company or org unit basis.
+* Provide high level context and a way into the other projects of the GSF including the TOSS project and the patterns 
 
 # Deliverables
 
@@ -43,7 +54,3 @@ Allow any organisation to understand their current green software maturity and k
 * Q2 2024 - v1.0 Community Working Group approval
 * Q3 2024 - v1.0 Steering Committee ratification
 * Q4 2024 - ?
-
-
-
-
