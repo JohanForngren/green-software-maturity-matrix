@@ -1,6 +1,7 @@
 {
   "name": "gsmm",
   "version": "0.0.1",
+  "description": "Green Software Maturity Matrix",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -45,5 +46,10 @@
   },
   "engines": {
     "node": ">=18.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Green-Software-Foundation/green-software-maturity-matrix.git"
+  },
+  "license": "CC-BY-4.0"
 }
