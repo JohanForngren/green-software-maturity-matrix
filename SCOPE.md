@@ -1,14 +1,14 @@
 
 # Scope
 
-The Green Software Maturity Matrix is a self-assessment tool. It helps organisations understand the extent to which they have implemented green principles, patterns, and processes for building and operating their software systems.
+The Green Software Maturity Matrix is a self-assessment tool. It helps organizations understand the extent to which they have implemented green principles, patterns, and processes for building and operating their software systems.
 
 The matrix addresses four problems. It answers the questions:
 
-* **"Where do I start?"** - for enterprises at level 1 of the GSMM, which tools and projects are available to help then achieve level 2
+* **"Where do I start?"** - for enterprises at level 1 of the GSMM, which tools and projects are available to help them achieve level 2
 * **"Where am I now?"** - by using the checklists of the GSMM, enterprises can establish which level of the GSMM they are currently at for different axes
 * **"What am I heading towards?"** - by establishing their current level, they can understand what is a realistic next milestone
-* **"How do I know I am making progress?"** - by tracking their progress they can check they are not stuck
+* **"How do I know I am making progress?"** - by tracking their progress, they can check they are not stuck
 
 
 # Target Audience
@@ -17,11 +17,11 @@ The matrix addresses four problems. It answers the questions:
 
 # Solution
 
-A simple maturity matrix with 5-6 levels of carbon efficiency and awareness in a poster-style diagram, together with a short guide. Training courses including those offered by the GSF, and standards such as the SCI & ISO can be overlaid.
+A simple maturity matrix with 5-6 levels of carbon efficiency and awareness in a poster-style diagram, together with a short guide. Training courses, including those offered by the GSF, and standards such as the SCI & ISO can be overlaid.
 
 # Objectives
 * Get all GSF Members to start reporting (at least internally) on their GSMM scores and progress on a company or org unit basis.
-* Provide high level context and a way into the other projects of the GSF including the TOSS project and the patterns 
+* Provide high-level context and a way into the other projects of the GSF, including the TOSS project and the patterns 
 
 # Deliverables
 
@@ -34,13 +34,13 @@ A simple maturity matrix with 5-6 levels of carbon efficiency and awareness in a
 
 ## OKRs
 
-Allow any organisation to understand their current green software maturity and know how to actively improve it
-* KR: Number of orgs who have self-assessed / adopted standard?
+Allow any organization to understand their current green software maturity and know how to actively improve it
+* KR: What is the number of organizations that have self-assessed / adopted the standard?
 * KR: Digital badges issued?
-* KR: Number of organisations who have moved levels?
+* KR: What is the number of organizations that have moved levels?
 
 ## KPIs
-* Online references / backlinks?
+* Online references/backlinks?
 * Material downloads?
 * Case studies?
 * Demand for training?
